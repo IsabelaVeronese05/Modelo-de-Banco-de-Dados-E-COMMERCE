@@ -1,4 +1,4 @@
-# 🛒 Modelo-de-Banco-de-Dados-E-COMMERCE
+## Modelo-de-Banco-de-Dados-E-COMMERCE
 
 Este projeto apresenta um modelo relacional de banco de dados para um sistema de E-COMMERCE com múltiplos fornecedores, 
 vendedores e clientes, incluindo funcionalidades de geolocalização, pagamento e entrega.
