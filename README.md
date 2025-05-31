@@ -72,7 +72,7 @@ Criar uma estrutura robusta e escalável de banco de dados que suporte operaçõ
 
 ## 💾 Tecnologias e SGBD
 
-- Modelado para uso com: *MySQL* ou *PostgreSQL*.
+- Modelado para uso com: MySQL ou PostgreSQL.
 - Ferramentas recomendadas: MySQL Workbench, DBeaver.
 
 ---
@@ -90,7 +90,7 @@ Criar uma estrutura robusta e escalável de banco de dados que suporte operaçõ
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a *MIT License*.
+Este projeto está licenciado sob a MIT License.
 
 
 ---
