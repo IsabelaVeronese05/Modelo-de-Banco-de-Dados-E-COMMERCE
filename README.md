@@ -88,12 +88,6 @@ Criar uma estrutura robusta e escalável de banco de dados que suporte operaçõ
 
 ---
 
-## 📝 Licença
-
-- Este projeto está licenciado sob a MIT License.
-
----
-
 ## ✨ Autor
 
 - Isabela Veronese 
